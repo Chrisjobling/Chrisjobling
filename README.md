@@ -1,5 +1,6 @@
 ### Here is what im working on! 👋
 
-- 🔭 I’m currently working on ... Improving knowledge of the AWS ecosystem
-- 🌱 I’m currently learning ... Go
+- 🔭 I’m currently working at ... Salecycle
+- 🌱 I’m currently learning ... Go And AWS ecosystem
+
 
